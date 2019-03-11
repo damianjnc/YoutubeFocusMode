@@ -1,2 +1,0 @@
-# YoutubeFocusMode
-Created with CodeSandbox
